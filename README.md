@@ -12,7 +12,7 @@ Sentiment classification web app for social media text — comparing Bidirection
 
 ## Live Demo
 
-🔗 **[Try the app on Streamlit Cloud](#)** ← ganti dengan link lo
+🔗 https://sentiment-analysis-celerates.streamlit.app/
 
 ---
 
